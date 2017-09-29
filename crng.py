@@ -1,3 +1,4 @@
+from random import random
 from time import time
 lower_limit = input("Please input the lower limit for the Random Number Generator. ")
 upper_limit = input("Please input the upper limit for the Random Number Generator. ")
